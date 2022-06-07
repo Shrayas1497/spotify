@@ -19,3 +19,7 @@ color: white;
  text-decoration: none;
  text-align:right;
  }
+ .container{
+margin:auto;
+max-width:30vh
+ }

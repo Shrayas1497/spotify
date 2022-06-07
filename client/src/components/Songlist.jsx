@@ -15,7 +15,7 @@ const Songlist = () => {
   <th>rate</th>
   </tr>
   <tr>
-    <td>Name </td>
+    <td>classical </td>
     <td> Anders</td>
     <td>Germany</td>
     <td></td>

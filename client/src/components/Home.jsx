@@ -3,7 +3,7 @@ import {Carousel }from 'react-bootstrap/Carousel'
 const Home = () => {
   return (
 
-          <div>
+          <div className='container'>
                         <h1>
           Top 10 songs
           </h1>
@@ -16,28 +16,80 @@ const Home = () => {
         <th>rate</th>
         </tr>
         <tr>
-          <td>Name </td>
-          <td> Anders</td>
-          <td>Germany</td>
-          <td></td>
-          <td></td>
+          <td>classical </td>
+          <td> ajab si adayaein</td>
+          <td>12/09/1988</td>
+          <td>kk</td>
+          <td>5</td>
         </tr>
         <tr>
-          <td>  DOB</td>
-          <td> </td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>  pop</td>
+          <td> khali salam</td>
+          <td>14/09/1988</td>
+          <td>MOHIT </td>
+          <td>5</td>
         
         </tr>
         <tr>
-          <td>Songs</td>
-          <td> </td>
-          <td></td>
-          <td>
+          <td>Rock</td>
+          <td> DUA</td>
+          <td>4/09/2002</td>
+          <td>arijit
       
           </td>
-       <td></td>
+       <td>5</td>
+        </tr>
+        <tr>
+          <td>  pop</td>
+          <td> khali salam</td>
+          <td>14/09/1988</td>
+          <td>MOHIT </td>
+          <td>5</td>
+        
+        </tr><tr>
+          <td>  pop</td>
+          <td> khali salam</td>
+          <td>14/09/1988</td>
+          <td>MOHIT </td>
+          <td>5</td>
+        
+        </tr><tr>
+          <td>  pop</td>
+          <td> khali salam</td>
+          <td>14/09/1988</td>
+          <td>MOHIT </td>
+          <td>5</td>
+        
+        </tr><tr>
+          <td>  pop</td>
+          <td> khali salam</td>
+          <td>14/09/1988</td>
+          <td>MOHIT </td>
+          <td>5</td>
+        
+        </tr><tr>
+          <td>  pop</td>
+          <td> khali salam</td>
+          <td>14/09/1988</td>
+          <td>MOHIT </td>
+          <td>5</td>
+        
+        </tr>
+        <tr>
+          <td>  pop</td>
+          <td> khali salam</td>
+          <td>14/09/1988</td>
+          <td>MOHIT </td>
+          <td>5</td>
+        
+        </tr>
+        <tr>
+          <td>  pop</td>
+          <td> khali salam</td>
+          <td>14/09/1988</td>
+          <td>MOHIT </td>
+          <td>5</td>
+        
         </tr>
       </table>       
        
@@ -51,7 +103,7 @@ const Home = () => {
 </tr>
 <tr>
 <td>kk </td>
-<td> 1/1/1</td>
+<td> 12/09/1988</td>
 <td>pal</td>
 </tr>
 <tr>
@@ -61,9 +113,50 @@ const Home = () => {
 </tr>
 <tr>
 <td>arijit</td>
-<td> 1/1/1</td>
+<td> 1/1/1999</td>
 <td> dua</td>
 </tr>
+<tr>
+<td>arijit</td>
+<td> 1/1/1999</td>
+<td> dua</td>
+</tr>
+
+<tr>
+<td>kk </td>
+<td> 12/09/1988</td>
+<td>pal</td>
+</tr>
+
+
+<tr>
+<td>kk </td>
+<td> 12/09/1988</td>
+<td>pal</td>
+</tr>
+<tr>
+<td>arijit</td>
+<td> 1/1/1999</td>
+<td> dua</td>
+</tr>
+<tr>
+<td>arijit</td>
+<td> 1/1/1999</td>
+<td> dua</td>
+</tr>
+
+<tr>
+<td>arijit</td>
+<td> 1/1/1999</td>
+<td> dua</td>
+</tr>
+
+<tr>
+<td>arijit</td>
+<td> 1/1/1999</td>
+<td> dua</td>
+</tr>
+
 
 
 
