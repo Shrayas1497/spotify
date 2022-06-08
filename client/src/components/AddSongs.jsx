@@ -15,8 +15,10 @@ const AddSongs   = () => {
   <option value="MOHIT">MOHIT</option>
   <option value="arijit">arijit</option>
   <option value="mod irfan">mod irfan</option>
-</select>
-        
+   
+</select><br>
+</br>
+<button>submit </button>      
    </form> 
   )
 }
